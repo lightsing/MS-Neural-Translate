@@ -1,0 +1,34 @@
+{
+  "name": "ms-neural-translate",
+  "description": "Translate using MS Neural API",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lightsing/MS-Neural-Translate",
+  "main": "trans.js",
+  "scripts": {},
+  "author": {
+    "name": "lightsing",
+    "email": "light.tsing@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lightsing/MS-Neural-Translate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lightsing/MS-Neural-Translate/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4.3.0"
+  },
+  "keywords": [
+    "microsoft",
+    "ms",
+    "translate",
+    "json",
+    "neural",
+    "translations"
+  ],
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
